@@ -55,6 +55,8 @@ endif;
 function rws_enqueue_scripts(){
 	global $rws_options;
 
+	// some comments goes here.
+	
 	//adding google fonts
 	$query_args = array(
 		'family' => 'Quicksand:400,500,700|Lora:400i,700i',

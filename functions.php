@@ -71,6 +71,8 @@ function rws_enqueue_scripts(){
 
  //    wp_enqueue_style( 'responsive.css', get_template_directory_uri().'/css/responsive.css',array(), '1.0.0', 'all' );
 
+	 //    wp_enqueue_style( 'responsive.css', get_template_directory_uri().'/css/responsive.css',array(), '1.0.0', 'all' );
+
 
 	//enqueing scripts
 	
